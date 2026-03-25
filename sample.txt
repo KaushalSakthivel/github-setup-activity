@@ -1,0 +1,1 @@
+This is a sample file for my GitHub Setup Activity. I am learning how to use version control.
